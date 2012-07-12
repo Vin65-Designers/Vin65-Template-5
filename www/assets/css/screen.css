@@ -200,9 +200,6 @@ hr {
 	}
 
 	#user-tools {
-		width:300px;
-		line-height:24px;
-		height:24px;
 		}
 	
 	#user-tools a {
@@ -764,5 +761,21 @@ padding:0 0 0 24px;
 #v65-modalCartDropdown {
 top:35px;
 }
+
+#v65-fieldset-paymentMethod{
+	float:left;
+	width:400px;
+	}
+
+form#v65-checkBilling .v65-additionalComments {
+	float:none;
+	margin-left:10px;
+	padding:15px 0 0;
+	width:390px;
+	}
+
+#v65-signUpClubSummaryWrapper {
+	margin-bottom: 20px;
+	}
 
 
